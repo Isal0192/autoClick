@@ -1,4 +1,5 @@
 # autoClick
+for game xD
 basic auto click use python
 -First use 1 to see the coordinates to place the block (right or left side of the player)
 -pertama gunakan 1 untuk melihat kordinat untuk meletakan block nya(samping kanan atau kiri pelayer)
